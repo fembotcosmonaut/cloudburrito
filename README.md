@@ -28,3 +28,4 @@ A slack app to download burritos from the cloud.
 #### Contributors
 * Jackson
 * Brittany
+* RingZeroBot
