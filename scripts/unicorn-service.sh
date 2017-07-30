@@ -10,7 +10,7 @@ fi
 
 start() {
     if [ -e ${unicorn_pid} ]; then
-        bundle exec unicorn -c ${unicorn_conf} -D
+        ~/.rvm/gems/ruby-2.3.3/bin/bundle exec unicorn -c ${unicorn_conf} -D
     fi
 }
 
